@@ -1,4 +1,4 @@
-#A1QA LAB#
+#A1QA LAB
 1 Задание
 
 ## 1 https://ru.wikipedia.org/ ##
